@@ -116,6 +116,13 @@ body{
 .forth-card{
     box-shadow: 0px 10px 30px var(--very-ligte);    
 }
+@media screen and (max-width:1035px)  {
+    .sec-tir-cardp{
+      display: flex;
+      flex-direction: row;
+    }
+    
+}
 @media screen and (max-width:600px) {
     br{
         display: none;
@@ -124,6 +131,9 @@ body{
        white-space: pre-line;
        
     }
+   .sec-tir-cardp{
+      display: block;
+   }
     .contenar .first-section h1:first-child{
         margin-top: 50px;
         font-weight: 200; 
