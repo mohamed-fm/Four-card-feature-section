@@ -39,7 +39,7 @@ body{
     display: flex; 
     flex-direction: column;
     align-items: center;
-    gap: 40px 0px;
+    gap: 0px 0px;
 }
 .contenar .first-section h1,.contenar .first-section p{
      text-align: center;
@@ -65,11 +65,12 @@ body{
     flex-wrap: wrap;
 }
 .card{
-    margin: 10px;
+    margin: 20px;
+    margin-top: 30px;
     margin-right: 15px;
     padding: 20px;
-    width: 300px;
-    height: 190px;
+    width: 320px;
+    height: 210px;
     background-color: white;
     border-radius: 5px;
     position: relative;

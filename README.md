@@ -1,6 +1,6 @@
-# Frontend Mentor - Chat app CSS illustration
+# Frontend Mentor - Four card feature section
 
-![Design preview for the Chat app CSS illustration coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
@@ -8,18 +8,17 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
-**To do this challenge, you need a strong understanding of HTML and CSS.**
+**To do this challenge, you need a basic understanding of HTML and CSS.**
 
 ## The challenge
 
-Your challenge is to build out this feature illustration using HTML & CSS and get it looking as close to the design as possible.
+Your challenge is to build out this feature section and get it looking as close to the design as possible.
 
-The only assets we provide in this challenge are the image of the person in the app UI and the 3 images of the dog. You need to create everything else using HTML & CSS!
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-Your users should be able to:
+Your users should:
 
-- View the optimal layout for the component depending on their device's screen size
-- **Bonus**: See the chat interface animate on the initial load
+- View the optimal layout for the site depending on their device's screen size
 
 Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
